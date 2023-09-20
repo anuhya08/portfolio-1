@@ -1,0 +1,195 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+.body {
+    font-family: roboto;
+    background-color: rgb(102, 49, 101);
+   
+}
+
+
+
+.pos-sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(189, 157, 225);
+}
+
+.blue-link {
+    color: rgb(114, 122, 85);
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.blue-link hover {
+    color: rgb(114, 122, 85);
+}
+
+.creamycorner {
+    color:rgb(114, 122, 85);
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.PORTFOLIO hover {
+    color: rgb(114, 122, 85);
+
+    font-weight: bolder;
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    scroll-timeline-name: anuu;
+}
+
+/* ----------- */
+.btn {
+    border: none;
+    padding: 15px 60px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bolder;
+    color: cadetblue;
+    background-color: brown;
+}
+
+
+.main {
+    text-align: center;
+}
+
+.box {
+    width: 300px;
+    border: 3px solid rgb(249, 253, 254);
+    text-align: center;
+    border-radius: 20px;
+    /* background-color: aqua; */
+    /* margin: 10px; */
+
+}
+
+.imggg {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    padding: 20px;
+    border-radius: 40px;
+
+}
+
+.rupees {
+    font-weight: bolder;
+}
+
+.odt {
+    color: rgb(3, 3, 3);
+    font-weight: bolder;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+
+.odt hover {
+    font-weight: bolder;
+    color: rgb(1, 1, 1);
+    ;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.line {
+    margin-bottom: -10px;
+    color: rgb(7, 7, 7);
+    font-family: roboto;
+}
+
+.foodie {
+    /* border: 3px solid blue; */
+    justify-content: space-between;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+/* .foodie{
+    justify-content: space-between;
+    display:flex;
+    margin-left: 70px;
+    margin-right: 70px;
+} */
+
+/* ------------- */
+.spcl {
+    margin: 40px;
+    text-align: center;
+    font-family: roboto;
+    color: rgb(83, 182, 236);
+    padding: 30px;
+}
+
+.must {
+    font-size: 20px;
+    font-weight: bolder;
+    color:  rgb(83, 182, 236);
+}
+
+.menuu {
+    margin: 40px;
+    text-align: center;
+    font-family: roboto;
+    color: rgb(83, 182, 236);
+}
+.heading{
+    color:rgb(238, 250, 131) ;
+    text-align: center;
+}
+.box{
+    border: 2px solid rgb(83, 182, 236);
+}
+.adjustt{
+    margin: 40px;
+    text-align: center;
+    font-family: roboto;
+    color: rgb(83, 182, 236);
+    padding: 30px;
+}
+
+.adjustt hover{
+    margin: 40px;
+    text-align: center;
+    font-family: roboto;
+    color: rgb(83, 182, 236);
+    display: flex;
+    font-weight: 40px;
+}
+/* .add{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px; 
+   color: rgb(189, 157, 225);
+} */
+
+
+.cont{
+    margin: 40px;
+    text-align: center;
+    color: rgb(83, 182, 236) ;
+    font-weight: bolder;
+    object-fit: cover;
+
+}
+
+.box{
+    /* display: flex; */
+    background-color: white;
+}
+.example{
+    margin: 60px;
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+    object-fit: cover;
+    text-align: center;
+}
